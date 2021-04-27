@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "82669519238",
+    "firebase_url": "https://monetization-of-parking-slots-default-rtdb.firebaseio.com",
+    "project_id": "monetization-of-parking-slots",
+    "storage_bucket": "monetization-of-parking-slots.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82669519238:android:fea045207e131e3f322c07",
+        "android_client_info": {
+          "package_name": "com.iotree.monitizing_parking_slot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82669519238-nf6l9s1ni5nthsmqhh00jpqguipk9scb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI0QpFBKinrDxKXW-wmRqLec3CfMMy9M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82669519238-nf6l9s1ni5nthsmqhh00jpqguipk9scb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
